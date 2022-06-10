@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Element is Cliking : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: (//button[@class='LeadRouting__select a'])[1]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[11416 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: uid_54]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element is Cliking : Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='LoadingButton__content'])[1]'<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element is Cliking : Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Get a Quote']'<br>]]>
+    </line>
+    <line>
+      <![CDATA[11416 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: //input[@id='uid_34']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping for : 0.5 seconds zZzz..<br>]]>
+    </line>
+    <line>
+      <![CDATA[Avalue has been selected from the element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: //select[@id='uid_37']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element is Cliking : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: (//button[@type='submit'])[1]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Mohammad : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_FirstName_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[J : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_MiddleInitial_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Ahmed : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_LastName_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[06/03/1991 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_DOB_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[batman_95@yahoo.com : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_email_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[8434 102nd AVE : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_street_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Ozone park : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_city_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping for : 0.5 seconds zZzz..<br>]]>
+    </line>
+    <line>
+      <![CDATA[NYvalue has been selected from the element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_state_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[11416 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_zipCode_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[2016 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_livingYear_0]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element is Cliking : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: //span[contains(.,'Continue')] ]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element is Cliking : Continue<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-04T03:17:03 MDT" name="Suite" finished-at="2022-06-04T03:17:55 MDT" duration-ms="52359">
+    <groups>
+    </groups>
+    <test started-at="2022-06-04T03:17:03 MDT" name="Test" finished-at="2022-06-04T03:17:55 MDT" duration-ms="52359">
+      <class name="com.amfam.qa.test.car.CarTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amfam.qa.test.car.CarTest@6404f418]" started-at="2022-06-04T03:17:03 MDT" name="setUp" finished-at="2022-06-04T03:17:25 MDT" duration-ms="22514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="carTest()[pri:0, instance:com.amfam.qa.test.car.CarTest@6404f418]" started-at="2022-06-04T03:17:25 MDT" name="carTest" finished-at="2022-06-04T03:17:55 MDT" duration-ms="29802" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Element is Cliking : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: (//button[@class='LeadRouting__select a'])[1]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[11416 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: uid_54]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element is Cliking : Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='LoadingButton__content'])[1]'<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element is Cliking : Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Get a Quote']'<br>]]>
+            </line>
+            <line>
+              <![CDATA[11416 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: //input[@id='uid_34']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping for : 0.5 seconds zZzz..<br>]]>
+            </line>
+            <line>
+              <![CDATA[Avalue has been selected from the element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: //select[@id='uid_37']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element is Cliking : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: (//button[@type='submit'])[1]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Mohammad : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_FirstName_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[J : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_MiddleInitial_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Ahmed : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_LastName_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[06/03/1991 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_DOB_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[batman_95@yahoo.com : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_PH_email_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[8434 102nd AVE : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_street_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Ozone park : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_city_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping for : 0.5 seconds zZzz..<br>]]>
+            </line>
+            <line>
+              <![CDATA[NYvalue has been selected from the element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_state_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[11416 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_zipCode_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[2016 : value passed to element : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> id: F_livingYear_0]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element is Cliking : [[ChromeDriver: chrome on WINDOWS (7312800e10a63a8050c7ddc3876b2d29)] -> xpath: //span[contains(.,'Continue')] ]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element is Cliking : Continue<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- carTest -->
+        <test-method is-config="true" signature="cleaningUp()[pri:0, instance:com.amfam.qa.test.car.CarTest@6404f418]" started-at="2022-06-04T03:17:55 MDT" name="cleaningUp" finished-at="2022-06-04T03:17:55 MDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleaningUp -->
+      </class> <!-- com.amfam.qa.test.car.CarTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
